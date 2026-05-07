@@ -24,6 +24,15 @@
 
 ---
 
+## How to Use This Plan With Claude
+
+At the start of every study session, tell Claude: **"Let's continue the learning plan."**
+Claude will create a task list for the session using TodoWrite, track your progress through each module, and mark items complete as you go. This gives you a clear view of what's done, what's in progress, and what's next — both within a session and across the full plan.
+
+Each module is a natural session boundary. If a module runs long, stop mid-module and Claude will pick up exactly where you left off next time.
+
+---
+
 ## Table of Contents
 
 1. [Phase 1 — JS Foundations via React Source](#1-phase-1)
