@@ -31,6 +31,10 @@ Claude will create a task list for the session using TodoWrite, track your progr
 
 Each module is a natural session boundary. If a module runs long, stop mid-module and Claude will pick up exactly where you left off next time.
 
+After every two modules, do a **review session** before moving on. No new material — just self-explanation of the two completed modules. Cover: what the concept is, where React uses it, and why it matters. If you can explain both modules without hesitation, move on. If not, revisit the weaker one first.
+
+At the end of every session, run a **quiz** before closing. The quiz must cover all source-level concepts touched that session — not just definitions, but mechanism. Questions should require the student to explain *why* something works, trace through code, or predict what would happen in an edge case. Do not proceed to the next session until the quiz is passed. If an answer is wrong or shallow, ask a follow-up until the concept is solid.
+
 ---
 
 ## Table of Contents
